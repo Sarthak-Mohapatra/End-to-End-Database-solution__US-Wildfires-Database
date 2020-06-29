@@ -1,10 +1,10 @@
-# End to End Database solution -- US Wildfires Database
-End to End Database Solution for storing ~1.88 million records of Wildfires in USA using MySQL.
+## End to End Database solution of US Wildfires Database
+This project demonstrated end to end Database Solution in MySQL for storing and using ~1.88 million records of wildfires in The USA.
 
-# Data Source/ Meta Data Link
+## Data Source/ Meta Data Link
 https://www.kaggle.com/rtatman/188-million-us-wildfires
 
-# Highlights of Processes Followed
+## Highlights of Processes Followed
 - Data Normalization Process - Data Tables were designed and normalization processes were followed to bring the data tables to third normal form
 - Data Modelling Process - Data Models using ER Diagrams were designed to define the structure of the data tables in 3rd normal form in the database
 - Forward Engineering Process - Using forward Engineering process, the data tables were physically created in the database based on the data models (ER Diagram)
