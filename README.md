@@ -1,7 +1,8 @@
 ## End to End Database solution of US Wildfires Database
-This project demonstrated end to end Database Solution in MySQL for storing and using ~1.88 million records of wildfires in The USA.
+This project demonstrates end to end Database Solution in MySQL for storing and using ~1.88 million records of wildfires in The USA.
 
 ## Data Source/ Meta Data Link
+The data for this project was referenced from Kaggle. The link for the datasets is:
 https://www.kaggle.com/rtatman/188-million-us-wildfires
 
 ## Highlights of Processes Followed
